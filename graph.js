@@ -2,7 +2,7 @@
     Graph
 */
 
-define(["node", "vec2"], function (Node, Vec2) {
+define(function (Node, Vec2) {
 
     function Graph(width, length) {
 

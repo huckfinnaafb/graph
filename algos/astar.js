@@ -5,7 +5,7 @@
     Uses an indexed array (indice based on vec2) for membership test.
 */
 
-define(["data/bin-heap"], function (BinaryHeap) {
+define(function (BinaryHeap) {
 
     function Path(graph, start, end, heuristic) {
 
